@@ -1,19 +1,23 @@
-# 📝 Chapter 4 - Python Lists, Tuples & To-Do List App
+# Chapter 4 - Python Lists, Tuples & To-Do List App
 
-### Description
-This project is a part of my Python learning journey at DecodeLabs. It covers the fundamentals of Python Lists and Tuples and implements a practical console-based To-Do List application to manage daily tasks.
+### DecodeLabs Internship - Python Project
 
-The To-Do app allows users to Add, View, and Remove tasks - demonstrating real-world use of list methods.
+**Description:**
+This project is a part of Chapter 4 learning. It covers Python Lists, Tuples and their methods. The main project is a Simple Command-Line To-Do List App where users can add, view, and delete their daily tasks.
 
-### Features
-- Understanding of Python Lists and List Methods (append, pop, remove, sort)
-- Understanding of Tuples and Tuple Methods
-- A functional To-Do List Manager built using Python
+**Features:**
+- Add new tasks to the list
+- View all tasks
+- Delete tasks
+- Concepts of Lists and Tuples used
 
-### How to Run
-1. Clone the repository
-2. Go to the folder: `cd Chapter-4`
-3. Run any file:
-   ```bash
-   python 01_list.py
-   python to_do_list.py
+**Files in this Repo:**
+- `01_list.py` - Basics of Python Lists
+- `02_list_methods.py` - List Methods practice
+- `03_tuple.py` - Basics of Tuples
+- `04_tuple_method.py` - Tuple Methods practice
+- `Simple To-Do List Program.py` - Main To-Do App Project
+
+**How to Run:**
+1. Make sure Python is installed
+2. Run any file using command:
